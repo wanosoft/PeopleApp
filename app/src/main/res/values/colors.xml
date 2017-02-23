@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta #1 -->
+    <color name="azul700">#1976D2</color>
+    <color name="azul500">#2196F3</color>
+    <color name="azul100">#BBDEFB</color>
+
+    <!-- Paleta #2 -->
+    <color name="rosa500">#EC407A</color>
+
+    <!-- Opacidad texto, iconos y divisores -->
+    <color name="negro87">#202020</color>
+    <color name="negro54">#737373</color>
+    <color name="negro12">#DCDCDC</color>
+
+</resources>

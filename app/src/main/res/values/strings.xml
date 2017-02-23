@@ -1,0 +1,28 @@
+<resources>
+    <!-- Nombre App -->
+    <string name="app_name">People App</string>
+
+    <!-- Titulos actividades -->
+    <string name="titulo_actividad_actividad_contactos">Contactos</string>
+    <string name="titulo_actividad_insertar_contacto">Añadir nuevo contacto</string>
+    <string name="titulo_actividad_editar_contacto">Editar contacto</string>
+
+    <!-- Formulario Actividad inserción -->
+    <string name="hint_campo_texto_nombre">Primer nombre</string>
+    <string name="hint_campo_texto_apellido">Primer apellido</string>
+    <string name="hint_campo_texto_telefono">Teléfono</string>
+    <string name="hint_campo_texto_correo">Correo</string>
+
+    <!-- Tooltips acciones toolbar -->
+    <string name="accion_sync">Sincronizar</string>
+    <string name="accion_eliminar">Eliminar</string>
+    <string name="accion_guardar">Guardar</string>
+    <string name="accion_descartar">Descartar</string>
+
+    <!-- Cuenta Sync Adapter -->
+    <string name="tipo_cuenta">com.herprogramacion.peopleapp.cuenta</string>
+
+    <!-- Autoridad del provider -->
+    <string name="autoridad_provider">com.herprogramacion.peopleapp</string>
+
+</resources>

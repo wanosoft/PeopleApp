@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nombre_contacto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/altura_item_lista_simple"
+    android:background="?attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:textSize="@dimen/tamano_texto_item_lista"
+    android:text="Nombre Contacto"
+    android:textColor="@color/negro87"
+    android:paddingLeft="@dimen/padding_horizontal_item_lista"
+    android:paddingRight="@dimen/padding_horizontal_item_lista"/>
